@@ -4,7 +4,7 @@ Each phase is a single, shippable slice of work. Phases build on each other.
 
 ---
 
-## Phase 1 — Project Scaffold
+## Phase 1 — Project Scaffold ✅
 - Initialise Next.js App Router project with TypeScript
 - Configure Tailwind CSS and shadcn/ui
 - Set up Prisma with a PostgreSQL connection
